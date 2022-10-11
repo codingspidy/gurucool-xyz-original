@@ -804,13 +804,13 @@ background-position: bottom left;
 .text-change:before {
   content: 'Learn';
   animation-name: head;
-  animation-duration: 10s;
+  animation-duration: 8s;
   animation-iteration-count: infinite;
 }
 .text-change2::before{
   content: 'Teach';
   animation-name: teach;
-  animation-duration: 10s;
+  animation-duration: 8s;
   animation-iteration-count: infinite;
 }
 
